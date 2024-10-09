@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nishk 
 - 👀 I’m interested in coding, listening to music, and working out
 - 🌱 I’m currently learning Data structures and Algorithms
-- 💞️ I’m looking for a Co-op position as a developer
-- 💻 My portfolio website is nishkbalsara.com
+- 💞️ I’m looking for a fulltime position as a developer
+- 💻 My portfolio website is nishkbalsara.ca
 - 📫 How to reach me : iamnishkb@gmail.com
 
 <!---
